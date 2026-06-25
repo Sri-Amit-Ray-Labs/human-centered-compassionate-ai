@@ -60,6 +60,47 @@ CAI = Σₖ wₖ Sₖ
 
 **Pipeline order:** Compassion Quotient → Suffering Reduction → Empathy → Human Flourishing → Vulnerability Protection → Planetary Protection → Future Generation Analysis → Human Oversight → Deploy.
 
+---
+
+# CAIA™ Architecture
+
+```text
+Sri Amit Ray Compassion AI Architecture™ (CAIA™)
+
+                    HUMAN FLOURISHING
+                            │
+                            ▼
+
+    ┌────────────────────────────────────────────┐
+    │     Compassion Intelligence Domain         │
+    └────────────────────────────────────────────┘
+                            │
+
+    ┌────────────────────────────────────────────┐
+    │     Neuro-Social Intelligence Domain       │
+    └────────────────────────────────────────────┘
+                            │
+
+    ┌────────────────────────────────────────────┐
+    │        Ethical Intelligence Domain         │
+    └────────────────────────────────────────────┘
+                            │
+
+    ┌────────────────────────────────────────────┐
+    │         Safety Intelligence Domain         │
+    └────────────────────────────────────────────┘
+                            │
+
+    ┌────────────────────────────────────────────┐
+    │     Sustainability Intelligence Domain     │
+    └────────────────────────────────────────────┘
+                            │
+
+    ┌────────────────────────────────────────────┐
+    │  Future Generation Intelligence Domain     │
+    └────────────────────────────────────────────┘
+```
+
 The architecture rests on four pillars: **Compassion, Responsibility, Sustainability, and Future Generations.**
 
 | Layer | Focus | Score | Algorithms |
