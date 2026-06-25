@@ -19,7 +19,7 @@ identifiers:
   - type: other
     value: "ISBN 978-8169641050"
     description: "ISBN"
-repository-code: "https://github.com/<your-username>/human-centered-compassionate-ai"
+repository-code: "https://github.com/Sri-Amit-Ray-Labs/human-centered-compassionate-ai"
 keywords:
   - compassionate AI
   - Sri Amit Ray Compassion AI Architecture
