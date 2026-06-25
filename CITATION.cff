@@ -1,0 +1,32 @@
+# Replace repository-code with this repo's actual GitHub URL once published,
+# and license with whatever you choose in LICENSE.
+# Note: "title" below is the published book's actual title (tied to the ISBN) and is
+# left unchanged by the CAIA(TM) rebrand. This repository documents the same 25
+# algorithms under the flagship name "Sri Amit Ray Compassion AI Architecture (CAIA)" —
+# see README.md and docs/architecture/Sri-Amit-Ray-CAIA-Overview.md.
+cff-version: 1.2.0
+message: "If you use the Sri Amit Ray Compassion AI Architecture (CAIA) framework or any of its 25 HC-CAI algorithms, please cite the book below."
+title: "Human-Centered Compassionate AI: Sri Amit Ray's 25 Algorithms for Protecting Humanity and Future Generations"
+abstract: "Documents the Sri Amit Ray Compassion AI Architecture (CAIA), a seven-layer framework organizing 25 Human-Centered Compassionate AI (HC-CAI) algorithms for compassion-aware, ethically governed artificial intelligence."
+type: book
+authors:
+  - family-names: "Ray"
+    given-names: "Amit"
+publisher:
+  name: "Compassionate AI Lab"
+date-released: "2026"
+identifiers:
+  - type: other
+    value: "ISBN 978-8169641050"
+    description: "ISBN"
+repository-code: "https://github.com/<your-username>/human-centered-compassionate-ai"
+keywords:
+  - compassionate AI
+  - Sri Amit Ray Compassion AI Architecture
+  - CAIA
+  - human-centered AI
+  - AI ethics
+  - AI safety
+  - human flourishing
+  - AI governance
+license: "TBD"
