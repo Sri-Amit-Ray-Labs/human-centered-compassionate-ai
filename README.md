@@ -1,29 +1,82 @@
 # Sri Amit Ray Compassion AI Architecture™ (CAIA™)
 
-> Advancing Human-Centered AI, Ethical AI, Explainable, Responsible AI, and Compassionate Artificial Intelligence
+### Advancing Human-Centered AI, Ethical AI, Explainable AI, Responsible AI, and Compassionate Artificial Intelligence
 
-> *"Artificial intelligence achieves its highest potential when guided by compassion, transparency, responsibility, and a commitment to human well-being."* — Sri Amit Ray
+> *"Artificial intelligence achieves its highest potential when guided by compassion, transparency, responsibility, and a commitment to human well-being."*
+> — **Sri Amit Ray**
 
-The **Sri Amit Ray Compassion AI Architecture™ (CAIA™)** is a human-centered framework for designing, developing, evaluating, and deploying artificial intelligence systems that prioritize compassion, human well-being, ethical responsibility, transparency, fairness, explainability, accountability, and sustainable societal impact.
+---
 
-CAIA™ extends conventional AI paradigms by introducing **compassion as a measurable design objective**, integrating human-centered values throughout the AI lifecycle.
+## Executive Summary
 
-This repository is the official documentation hub for the **Sri Amit Ray Compassion AI Architecture™ (CAIA™)** and the **Human-Centered Compassionate AI (HC-CAI) Algorithm Series** it governs — twenty-five algorithms, each documented as a standalone, GitHub-README-style guide under [`docs/algorithms/`](docs/algorithms/).
+The **Sri Amit Ray Compassion AI Architecture™ (CAIA™)** is a comprehensive framework for designing, developing, deploying, and governing artificial intelligence systems that prioritize human well-being, compassion, ethical responsibility, and long-term societal benefit.
+
+CAIA™ is founded on the principle that the success of AI should not be measured solely by intelligence, efficiency, automation, profitability, or computational performance. Instead, AI systems should also be evaluated by their capacity to reduce suffering, preserve human dignity, strengthen human agency, promote social harmony, and safeguard future generations.
+
+The framework introduces a new optimization objective:
+
+> **Compassionate Reduction of Suffering while Preserving Human Dignity, Human Agency, Ecological Sustainability, and Future Generational Well-Being.**
+
+To achieve this goal, CAIA™ organizes **25 Human-Centered Compassionate AI Algorithms** into six interconnected intelligence domains that collectively guide the design, evaluation, governance, safety, and societal impact of advanced AI systems.
+
+Unlike conventional AI frameworks that treat compassion as a secondary ethical consideration, CAIA™ establishes **Compassion Intelligence** as a foundational architectural principle and a measurable design objective throughout the AI lifecycle.
+
+This repository serves as the official documentation hub for the **Sri Amit Ray Compassion AI Architecture™ (CAIA™)** and the **Human-Centered Compassionate AI (HC-CAI) Algorithm Series**. The framework comprises twenty-five interconnected algorithms, each documented as a standalone GitHub-style technical guide within the `docs/algorithms/` directory.
 
 ---
 
 ## Vision
 
-Artificial intelligence should not only become more intelligent. It should become more compassionate, more transparent, more responsible, and more beneficial to humanity. CAIA™ seeks to align technological innovation with human flourishing, ethical responsibility, and sustainable development — for the present generation and those to come.
+Artificial intelligence should not merely become more intelligent. It should become more compassionate, more transparent, more responsible, and more aligned with the flourishing of humanity and the living world.
+
+The vision of CAIA™ is to harmonize technological innovation with human values, ethical responsibility, social well-being, and sustainable development, ensuring that AI serves both present and future generations.
+
+Human-Centered Compassionate AI seeks to:
+
+* Reduce human suffering
+* Promote individual and collective well-being
+* Strengthen human dignity and human rights
+* Preserve freedom, autonomy, and agency
+* Support ethical and responsible decision-making
+* Protect vulnerable individuals and communities
+* Foster trust between humans and AI systems
+* Safeguard future generations
+* Promote ecological sustainability and planetary stewardship
+* Encourage the responsible evolution of advanced intelligence
 
 ---
+
+## Core Principle
+
+CAIA™ is built upon a simple yet profound premise:
+
+> **The highest purpose of artificial intelligence is not merely to augment intelligence, but to advance wisdom, compassion, human flourishing, and the long-term well-being of life on Earth.**
+
+---
+
 ## Official Website
 
-The official articles, research publications, and educational resources related to the Sri Amit Ray Compassion AI Architecture™ (CAIA™) are available at:
+Official research articles, publications, educational resources, and updates related to the Sri Amit Ray Compassion AI Architecture™ (CAIA™) are available at:
 
-- https://amitray.com
-- https://amitray.com/compassionate-ai-lab/
+* https://amitray.com
+* https://amitray.com/compassionate-ai-lab/
+
 ---
+
+## Repository Scope
+
+This repository provides:
+
+* The CAIA™ architectural framework
+* The six Compassion Intelligence domains
+* The 25 Human-Centered Compassionate AI (HC-CAI) Algorithm Series
+* Design principles and governance guidelines
+* Evaluation and assessment methodologies
+* Research references and implementation guidance
+* Future directions for compassionate and human-centered AI systems
+
+Together, these components form a unified framework for advancing the next generation of trustworthy, ethical, responsible, explainable, and compassionate artificial intelligence.
+
 ## Architecture Documents
 
 The CAIA™ framework is organized into four foundational architecture documents, all grounded directly in the 25 algorithm documents:
