@@ -1,4 +1,4 @@
-# Sri Amit Ray Compassion AI Architecture™ (CAIA™)
+# Sri Amit Ray Compassionate AI Architecture™ (CAIA™)
 
 ### Advancing Human-Centered AI, Ethical AI, Explainable AI, Responsible AI, and Compassionate Artificial Intelligence
 
@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-The **Sri Amit Ray Compassion AI Architecture™ (CAIA™)** is a comprehensive framework for designing, developing, deploying, and governing artificial intelligence systems that prioritize human well-being, compassion, ethical responsibility, and long-term societal benefit.
+The **Sri Amit Ray Compassionate AI Architecture™ (CAIA™)** is a comprehensive framework for designing, developing, deploying, and governing artificial intelligence systems that prioritize human well-being, compassion, ethical responsibility, and long-term societal benefit.
 
 CAIA™ is founded on the principle that the success of AI should not be measured solely by intelligence, efficiency, automation, profitability, or computational performance. Instead, AI systems should also be evaluated by their capacity to reduce suffering, preserve human dignity, strengthen human agency, promote social harmony, and safeguard future generations.
 
@@ -21,7 +21,7 @@ To achieve this goal, CAIA™ organizes **25 Human-Centered Compassionate AI Alg
 
 Unlike conventional AI frameworks that treat compassion as a secondary ethical consideration, CAIA™ establishes **Compassion Intelligence** as a foundational architectural principle and a measurable design objective throughout the AI lifecycle.
 
-This repository serves as the official documentation hub for the **Sri Amit Ray Compassion AI Architecture™ (CAIA™)** and the **Human-Centered Compassionate AI (HC-CAI) Algorithm Series**. The framework comprises twenty-five interconnected algorithms, each documented as a standalone GitHub-style technical guide within the `docs/algorithms/` directory.
+This repository serves as the official documentation hub for the **Sri Amit Ray Compassionate AI Architecture™ (CAIA™)** and the **Human-Centered Compassionate AI (HC-CAI) Algorithm Series**. The framework comprises twenty-five interconnected algorithms, each documented as a standalone GitHub-style technical guide within the `docs/algorithms/` directory.
 
 ---
 
@@ -56,7 +56,7 @@ CAIA™ is built upon a simple yet profound premise:
 
 ## Official Website
 
-Official research articles, publications, educational resources, and updates related to the Sri Amit Ray Compassion AI Architecture™ (CAIA™) are available at:
+Official research articles, publications, educational resources, and updates related to the Sri Amit Ray Compassionate AI Architecture™ (CAIA™) are available at:
 
 * https://amitray.com
 * https://amitray.com/compassionate-ai-lab/
@@ -92,7 +92,7 @@ The CAIA™ framework is organized into four foundational architecture documents
 
 ## Core Objectives
 
-The Sri Amit Ray Compassion AI Architecture™ promotes AI systems that:
+The Sri Amit Ray Compassionate AI Architecture™ promotes AI systems that:
 
 * Enhance human well-being and reduce suffering and risk.
 * Support ethical, transparent, and explainable decision-making.
@@ -103,12 +103,13 @@ The Sri Amit Ray Compassion AI Architecture™ promotes AI systems that:
 
 ---
 
-## The Compassion AI Architecture (CAIA™)
+## The Compassionate AI Architecture (CAIA™)
 
 All twenty-five algorithms compose into a single seven-layer operating system. Every AI decision passes through successive layers of compassion before deployment, producing a single Compassionate AI Index:
 
 ```
 CAI = Σₖ wₖ Sₖ
+
 ```
 
 **Pipeline order:** Compassion Quotient → Suffering Reduction → Empathy → Human Flourishing → Vulnerability Protection → Planetary Protection → Future Generation Analysis → Human Oversight → Deploy.
@@ -118,7 +119,7 @@ CAI = Σₖ wₖ Sₖ
 # CAIA™ Architecture
 
 ```text
-Sri Amit Ray Compassion AI Architecture™ (CAIA™)
+Sri Amit Ray Compassionate AI Architecture™ (CAIA™)
 
                     HUMAN FLOURISHING
                             │
@@ -274,7 +275,7 @@ Each file in `docs/algorithms/` cross-links to related algorithms by bare filena
 cd human-centered-compassionate-ai
 git init
 git add .
-git commit -m "Initial commit: Sri Amit Ray Compassion AI Architecture (CAIA) and the 25 HC-CAI algorithms"
+git commit -m "Initial commit: Sri Amit Ray Compassionate AI Architecture (CAIA) and the 25 HC-CAI algorithms"
 git branch -M main
 git remote add origin https://github.com/<your-username>/human-centered-compassionate-ai.git
 git push -u origin main
@@ -288,7 +289,7 @@ GitHub automatically renders this root `README.md` as the repository's landing p
 
 If you use, reference, adapt, or build upon this framework, please cite:
 
-> Ray, Amit. *Sri Amit Ray Compassion AI Architecture™ (CAIA™).* Compassionate AI Lab, 2026.
+> Ray, Amit. *Sri Amit Ray Compassionate AI Architecture™ (CAIA™).* Compassionate AI Lab, 2026.
 
 For scholarly, research, educational, or commercial use, please also cite:
 
@@ -314,7 +315,7 @@ Choose and add a license appropriate to this content (e.g., MIT for any original
 
 **Sri Amit Ray**
 
-Founder of the **Sri Amit Ray Compassion AI Architecture™ (CAIA™)**
+Founder of the **Sri Amit Ray Compassionate AI Architecture™ (CAIA™)**
 
 Advancing Human-Centered, Ethical, Explainable, and Compassionate Artificial Intelligence.
 
