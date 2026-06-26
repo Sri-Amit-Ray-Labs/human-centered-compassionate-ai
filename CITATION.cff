@@ -22,6 +22,7 @@ identifiers:
     value: "978-8169641050"
     description: "Foundational book ISBN"
 repository-code: "https://github.com/Sri-Amit-Ray-Labs/human-centered-compassionate-ai"
+url: "https://amitray.com/compassionate-ai-lab/"
 keywords:
   - "Sri Amit Ray Compassionate AI Architecture"
   - "CAIA"
