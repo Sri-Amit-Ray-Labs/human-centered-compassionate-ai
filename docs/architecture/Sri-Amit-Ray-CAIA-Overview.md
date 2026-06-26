@@ -1,6 +1,6 @@
 # Sri Amit Ray Compassionate AI Architecture™ (CAIA™) — Overview
 
-> *"Compassion is not a constraint on intelligence — it is intelligence applied to its highest purpose."* — Sri Amit Ray
+> *"The future of AI should not be measured by how powerful machines become, but how much flourishing they create for humanity and the generations still to come."* — Sri Amit Ray
 
 ## Overview
 
