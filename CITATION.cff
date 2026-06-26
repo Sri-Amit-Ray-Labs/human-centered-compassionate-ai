@@ -1,104 +1,53 @@
-# Citation File Format (CFF) Metadata
-
-#
-
-# Sri Amit Ray Compassionate AI Architecture™ (CAIA™)
-
-#
-
-# This repository documents the Sri Amit Ray Compassionate AI Architecture™
-
-# (CAIA™), a human-centered framework comprising 25 Human-Centered
-
-# Compassionate AI (HC-CAI) algorithms designed to advance compassionate,
-
-# ethical, explainable, responsible, safe, and sustainable artificial
-
-# intelligence.
-
-#
-
-# The framework is based on the foundational work:
-
-#
-
-# Human-Centered Compassionate AI:
-
-# Sri Amit Ray's 25 Algorithms for Protecting Humanity and Future Generations
-
-# ISBN: 978-8169641050
-
-#
-
-# If you use, reference, adapt, or build upon this framework, please cite
-
-# the publication below.
-
 cff-version: 1.2.0
-
 message: "If you use, reference, adapt, or build upon the Sri Amit Ray Compassionate AI Architecture™ (CAIA™) or any of its 25 HC-CAI algorithms, please cite the publication below."
-
 title: "Sri Amit Ray Compassionate AI Architecture™ (CAIA™)"
-
 abstract: >
-The Sri Amit Ray Compassionate AI Architecture™ (CAIA™) is a
-human-centered framework for designing, evaluating, deploying, and
-governing artificial intelligence systems that prioritize compassion,
-human dignity, well-being, ethical responsibility, safety,
-sustainability, and the interests of future generations. The framework
-organizes 25 Human-Centered Compassionate AI (HC-CAI) algorithms into
-interconnected intelligence domains that support the development of
-trustworthy, explainable, responsible, and compassionate AI systems.
-
+  The Sri Amit Ray Compassionate AI Architecture™ (CAIA™) is a
+  human-centered framework for designing, evaluating, deploying, and
+  governing artificial intelligence systems that prioritize compassion,
+  human dignity, well-being, ethical responsibility, safety,
+  sustainability, and the interests of future generations. The framework
+  organizes 25 Human-Centered Compassionate AI (HC-CAI) algorithms into
+  interconnected intelligence domains that support the development of
+  trustworthy, explainable, responsible, and compassionate AI systems.
 type: software
-
 authors:
-
-* family-names: "Ray"
-  given-names: "Amit"
-
+  - family-names: "Ray"
+    given-names: "Amit"
 publisher:
-name: "Compassionate AI Lab"
-
+  name: "Compassionate AI Lab"
 date-released: "2026"
-
 identifiers:
-
-* type: isbn
-  value: "978-8169641050"
-  description: "Foundational book ISBN"
-
+  - type: isbn
+    value: "978-8169641050"
+    description: "Foundational book ISBN"
 repository-code: "https://github.com/Sri-Amit-Ray-Labs/human-centered-compassionate-ai"
-
 keywords:
-
-* Sri Amit Ray Compassionate AI Architecture
-* CAIA
-* Human-Centered Compassionate AI
-* HC-CAI
-* Compassion Intelligence
-* Compassionate AI
-* Human-Centered AI
-* Ethical AI
-* Responsible AI
-* Explainable AI
-* AI Safety
-* AI Governance
-* Human Flourishing
-* Sustainability Intelligence
-* Future Generation Intelligence
-
+  - "Sri Amit Ray Compassionate AI Architecture"
+  - "CAIA"
+  - "Human-Centered Compassionate AI"
+  - "HC-CAI"
+  - "Compassion Intelligence"
+  - "Compassionate AI"
+  - "Human-Centered AI"
+  - "Ethical AI"
+  - "Responsible AI"
+  - "Explainable AI"
+  - "AI Safety"
+  - "AI Governance"
+  - "Human Flourishing"
+  - "Sustainability Intelligence"
+  - "Future Generation Intelligence"
 license: "MIT"
-
 preferred-citation:
-type: book
-title: "Human-Centered Compassionate AI: Sri Amit Ray's 25 Algorithms for Protecting Humanity and Future Generations"
-authors:
-- family-names: "Ray"
-given-names: "Amit"
-publisher:
-name: "Compassionate AI Lab"
-year: 2026
-identifiers:
-- type: isbn
-value: "978-8169641050"
+  type: book
+  title: "Human-Centered Compassionate AI: Sri Amit Ray's 25 Algorithms for Protecting Humanity and Future Generations"
+  authors:
+    - family-names: "Ray"
+      given-names: "Amit"
+  publisher:
+    name: "Compassionate AI Lab"
+  year: 2026
+  identifiers:
+    - type: isbn
+      value: "978-8169641050"
